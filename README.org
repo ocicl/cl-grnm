@@ -1,0 +1,9 @@
+* cl-grnm
+
+Common Lisp implementation of (grid restrained) Nelder-Mead
+
+|---------+-----------------------------------------------------|
+| source  | git:https://github.com/rigetticomputing/cl-grnm.git |
+| commit  | 778a312                                             |
+| systems | cl-grnm                                             |
+|---------+-----------------------------------------------------|
