@@ -7,4 +7,4 @@ Common Lisp implementation of (grid restrained) Nelder-Mead
 | commit  | 778a312                                             |
 | systems | cl-grnm                                             |
 |---------+-----------------------------------------------------|
- 
+  
